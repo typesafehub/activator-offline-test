@@ -1,4 +1,4 @@
-addSbtPlugin("com.typesafe.rp" % "sbt-typesafe-rp" % "00v01p01")
+addSbtPlugin("com.typesafe.rp" % "sbt-typesafe-rp" % "00v01p02")
 
 val typesafeUrl = "https://private-repo.typesafe.com/typesafe/for-subscribers-only/D4BD927C7A9260978D38295D00947C87A210A3DB/"
 
